@@ -1,0 +1,14 @@
+{
+   "webcredentials": {
+       "apps": ["JU6E3HS33L.com.reelapps.RAShotLister.dev"]
+    },
+    "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "JU6E3HS33L.com.reelapps.RAShotLister.dev",
+        "paths": ["/invite/*"]
+      }
+    ]
+  }
+}
